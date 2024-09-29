@@ -1,3 +1,28 @@
+## octomap_mapping (jazzy) - 2.3.0-1
+
+The packages in the `octomap_mapping` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy octomap_mapping --override-release-repository-push-url git@github.com:revyos-ros/octomap_mapping-release.git` on `Sun, 29 Sep 2024 03:06:52 -0000`
+
+These packages were released:
+- `octomap_mapping`
+- `octomap_server`
+
+Version of package(s) in repository `octomap_mapping`:
+
+- upstream repository: https://github.com/OctoMap/octomap_mapping.git
+- release repository: https://github.com/revyos-ros/octomap_mapping-release.git
+- rosdistro version: `2.3.0-1`
+- old version: `2.2.0-1`
+- new version: `2.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## octomap_mapping (humble) - 2.3.0-1
 
 The packages in the `octomap_mapping` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble octomap_mapping --override-release-repository-push-url git@github.com:revyos-ros/octomap_mapping-release.git` on `Mon, 23 Sep 2024 16:17:22 -0000`
